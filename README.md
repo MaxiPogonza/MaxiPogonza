@@ -1,18 +1,20 @@
-### Hola! Mi nombre es Maximiliano Pogonza
+[MAXI POGON](https://user-images.githubusercontent.com/102631575/234683398-838ec244-a8fa-4857-8482-cf3782e3d21b.png)
 
-# Quien soy? 
 
 Soy un desarrollador Full Stack con muchisimas ganas de tener su primera experiencia laboral y asi arrancar con esta hermosa carrera que elegi seguir
 
-# Como Soy? 
 
-Soy una persona responsable con el trabajo, siempre dispuesta a ayudar a la persona que necesite mi ayuda, dispuesto a aprender todos los dias algo nuevo, soy empatico y soy resiliente, siempre sobreponiendome a el problema de turno 
- 
-# Que busco ? 
+## Como soy?
 
-Busco una empresa en la que pueda crecer y desarrollarme en la tecnologia 
+Soy una persona responsable con el trabajo, siempre predispuesta a ayudar a la persona que lo necesite, dispuesto a aprender todos los dias algo nuevo, soy empatico y soy resiliente, siempre sobreponiendome a los problemas que surjan.
 
-# Que tecnologias uso? 
+## Que busco ? 
+
+
+Busco una empresa en la que pueda crecer y desarrollarme en el mundo de la tecnologia y que, a su vez, la empresa se vea beneficiada por obtener mis servicios.
+
+## Que tecnologias manejo ?
+
 
 Debido a mi paso por el bootcamp de Henry he adoptado las siguientes tecnologias:
 - REACT
