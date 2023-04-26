@@ -1,4 +1,4 @@
-[MAXI POGON](https://user-images.githubusercontent.com/102631575/234683398-838ec244-a8fa-4857-8482-cf3782e3d21b.png)
+### Hola ! Mi nombre es Maximiliano Pogonza
 
 
 Soy un desarrollador Full Stack con muchisimas ganas de tener su primera experiencia laboral y asi arrancar con esta hermosa carrera que elegi seguir
@@ -32,4 +32,9 @@ Y alternativamente tambien me fui adentro en las siguientes tecnologias :
 - MONGODB
 - SUPABASE 
 
-## Sin nada mas que decir, ¡muchas gracias! por haber llegado hasta aca.
+Si estás interesado en trabajar conmigo, ¡contáctame!
+
+- Correo electrónico: [pogonza00@gmail.com](mailto:pogonza00@gmail.com) 
+- LinkedIn: [linkedin.com/in/maxipogonza](https://www.linkedin.com/in/maxipogonza)
+
+¡Espero saber de ti pronto! :mailbox: :rocket:
